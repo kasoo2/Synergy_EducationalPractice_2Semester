@@ -1,0 +1,4 @@
+service_catalogue_num_id;service_code;service_name;service_name_en;description;price;active_flag
+1;BOOKING_HOTEL;Бронирование отеля;Booking hotel;Услуга для бронирования/заказа отеля;0.00;1
+2;CITY_TOUR;Экскурсия по городу;City tour;Экскурсия по достопримечательностям и интересным местам города;2000.00;1
+3;TRANSFER_TO_HOTEL;Трансфер до отеля;NULL;Трансфер из аэропорта до отеля;1000.00;1
