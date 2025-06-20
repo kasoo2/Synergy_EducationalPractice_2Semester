@@ -1,0 +1,4 @@
+hotel_catalogue_num_id;hotel_name;hotel_name_en;description;address;star_rating;floor_count;active_flag;location_catalogue_num_id
+1;Маринс Парк;Marins Par;NULL;Советская ул., 12, Нижний Новгород;4;12;1;1
+2;История;History;NULL;ул. Воровского, 28;3;8;1;2
+3;Вега Измайлово;NULL;NULL;Измайловское ш., 71, корп. 3В;4;10;1;3

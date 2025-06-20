@@ -1,0 +1,4 @@
+tour_client_num_id;first_name;last_name;patronymic;age;phone;email;passport_serial;passport_number;active_flag
+1;Иванов;Пётр;Николаевич;23;89210564857;pertnikol@mail.ru;1923;435789;1
+2;Блиннов;Никита;Дмитриевич;18;89210563178;mymailnick@mail.ru;1916;456345;1
+3;Мурашкин;Влад;Анатольевич;40;89211340987;vladika123@mail.ru;1923;223412;1
